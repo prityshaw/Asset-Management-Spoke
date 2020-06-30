@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-29 14:11:43</sys_created_on>
+        <sys_id>d3e2694cdbb510103436b298f49619de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.383794.workspace.asset_management_s.asset_management_spoke</sys_name>
+        <sys_package display_value="Asset Management Spoke" source="x_383794_asset_man">6472614cdbb510103436b298f49619ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Management Spoke">6472614cdbb510103436b298f49619ae</sys_scope>
+        <sys_security_acl display_value="x.383794.workspace.asset_management_s">5fe2694cdbb510103436b298f49619c7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d3e2694cdbb510103436b298f49619de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-29 14:11:43</sys_updated_on>
+        <sys_user_role display_value="asset_management_spoke" name="asset_management_spoke">d3e2694cdbb510103436b298f49619d9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
